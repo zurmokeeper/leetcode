@@ -27,6 +27,7 @@ var isValid = function(s) {
     }
 };
 
+//From:https://leetcode.com/problems/valid-parentheses/discuss/9287/JavaScript-solution-with-a-stack
 //The second answer
 
 // var map = {
